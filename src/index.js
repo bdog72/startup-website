@@ -6,7 +6,6 @@ import Redbox from 'redbox-react'
 import App from './components/App'
 
 import './styles/screen.scss'
-
 const root = document.getElementById('root')
 
 const render = app => {
