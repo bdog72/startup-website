@@ -28,7 +28,8 @@ nav {
 a {
   text-decoration: none;
   opacity: 0.75;
-  color: #fff;
+  // color: #fff;
+  color: black;
 }
 
 a:hover {
@@ -150,7 +151,8 @@ header nav li {
   z-index: -1;
   background-color: #80a3db;
   // background-image: url('https://www.junemountain.com/images/librariesprovider4/Photo-Video-Gallery/2014-01-12_june-mountain-groomers_853_1000px.jpg?sfvrsn=39537504_2');
-  background-image: url('http://weknowyourdreams.com/images/mountain/mountain-06.jpg');
+  // background-image: url('http://weknowyourdreams.com/images/mountain/mountain-06.jpg');
+  background-image: url('https://www.junemountain.com/images/librariesprovider4/Photo-Video-Gallery/2014-01-12_june-mountain-groomers_853_1000px.jpg?sfvrsn=39537504_2');
 }
 
 .hero h1 {
